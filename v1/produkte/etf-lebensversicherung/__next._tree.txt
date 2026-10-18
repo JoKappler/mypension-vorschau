@@ -1,8 +1,8 @@
-:HL["/mypension-vorschau/v1/_next/static/chunks/0855tcs9gqxly.css","style"]
+:HL["/mypension-vorschau/v1/_next/static/chunks/1afezenajd0si.css","style"]
 :HL["/mypension-vorschau/v1/_next/static/media/schibsted_grotesk_latin-s.p.3j3x29wbycqkn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mypension-vorschau/v1/bilder/familie-meer-abend-800.jpg","image",{"imageSrcSet":"/mypension-vorschau/v1/bilder/familie-meer-abend-800.jpg 800w, /mypension-vorschau/v1/bilder/familie-meer-abend-1600.jpg 1600w","imageSizes":"(min-width: 1024px) 75vw, 100vw","fetchPriority":"high"}]
 :HL["/mypension-vorschau/v1/bilder/johanna-pitsch.png","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"etf-lebensversicherung","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"produkte","h":131136,"c":"$Q2"}]]
-0:{"b":"uZmTe6Tx9SQNmIie1J2W9","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"uT8-PwdZIljx7gZwt06qy","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

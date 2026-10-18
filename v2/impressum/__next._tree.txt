@@ -1,7 +1,7 @@
-:HL["/mypension-vorschau/v2/_next/static/chunks/2fkjs6-geyey0.css","style"]
+:HL["/mypension-vorschau/v2/_next/static/chunks/2r8x_y_89ruvv.css","style"]
 :HL["/mypension-vorschau/v2/_next/static/media/schibsted_grotesk_latin-s.p.3j3x29wbycqkn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mypension-vorschau/v2/bilder/johanna-pitsch.png","image"]
 :HL["/mypension-vorschau/v2/bilder/ll-linie-800.jpg","image",{"imageSrcSet":"/mypension-vorschau/v2/bilder/ll-linie-800.jpg 800w, /mypension-vorschau/v2/bilder/ll-linie-1600.jpg 1600w","imageSizes":"(min-width: 768px) 70vw, 100vw","fetchPriority":"high"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"impressum","h":64,"c":"$Q2"}]]
-0:{"b":"HJL00frlW5JatVh49NDrX","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"wIPO7w1tZ-AQdnwUSd5da","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
