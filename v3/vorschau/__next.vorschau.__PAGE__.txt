@@ -1,0 +1,25 @@
+2:"$Sreact.fragment"
+3:"/mypension-vorschau/v3/_next/static/chunks/1bew-u892o8bn.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+a:I[97367,["$3"],"OutletBoundary"]
+b:"$Sreact.suspense"
+e:"ViewportBoundary"
+f:I[97367,["$3"],"$e"]
+10:"MetadataBoundary"
+11:I[97367,["$3"],"$10"]
+12:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"className":"flex-1 bg-papier text-text","children":["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6","children":[["$","h1",null,{"className":"text-3xl font-bold leading-tight","children":"Vorschau: Fassungen zum Vergleichen"}],["$","p",null,{"className":"mt-3 text-text-2","children":"Diese Seite ist nur für uns. Sie zeigt die Fassungen, die wir auf dem Handy vergleichen wollen."}],["$","h2",null,{"className":"mt-10 text-xl font-bold","children":"Block 2 „Lieber mit einem Menschen reden?“"}],["$","ul",null,{"className":"mt-2","children":[["$","li",null,{"children":["$","a",null,{"href":"/mypension-vorschau/v3/#mensch","className":"inline-flex min-h-11 items-center font-semibold text-navy-800 underline underline-offset-4 hover:text-navy-600","children":"Ohne Hintergrundfoto (so steht es jetzt)"}]}],["$","li",null,{"children":["$","a",null,{"href":"/mypension-vorschau/v3/?block2=duoton#mensch","className":"inline-flex min-h-11 items-center font-semibold text-navy-800 underline underline-offset-4 hover:text-navy-600","children":"Mit eingefärbtem Foto dahinter (Duoton, Foto ist ein Platzhalter)"}]}]]}],["$","h2",null,{"className":"mt-10 text-xl font-bold","children":"Beispiele mit Antworten"}],["$","ul",null,{"className":"mt-2","children":[["$","li",null,{"children":["$","a",null,{"href":"/mypension-vorschau/v3/?weg=aufbauen&alter=39&monat=500&vorhanden=48000","className":"inline-flex min-h-11 items-center font-semibold text-navy-800 underline underline-offset-4 hover:text-navy-600","children":"Aufbauen: 39 Jahre, 500 € im Monat, 48.000 € zu Beginn"}]}],["$","li",null,{"children":["$","a",null,{"href":"/mypension-vorschau/v3/?weg=auszahlen&summe=380000&alter=61&start=64","className":"inline-flex min-h-11 items-center font-semibold text-navy-800 underline underline-offset-4 hover:text-navy-600","children":"Auszahlen: 380.000 €, 61 Jahre, ab 64"}]}],["$","li",null,{"children":["$","a",null,{"href":"/mypension-vorschau/v3/?weg=vererben&betrag=250000&an=kind","className":"inline-flex min-h-11 items-center font-semibold text-navy-800 underline underline-offset-4 hover:text-navy-600","children":"Vererben: 250.000 € an ein Kind"}]}]]}]]}]}],null,["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":"$@d","v":null,"s":"$8"}}]]
+1:[["children",{"s":"vorschau","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#16243a"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Vorschau: Fassungen zum Vergleichen"}],["$","meta","1",{"name":"description","content":"Tippen Sie auf die Stelle, wo Sie gerade stehen, und sehen Sie in einer Minute Ihre eigene Zahl fürs Alter. Ohne Anmeldung, ohne Unterlagen."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/mypension-vorschau/v3/bilder/logo-mark.svg"}],["$","$L12","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@13","v":null,"s":"$8"}},"a":"$@14","u":"$@15","b":"rYYVkf9fGItNVed1khDmB"}
+c:null
+15:true
+8:300
+8:C
+14:0
+6:"$undefined"
+13:"$undefined"
+d:"$undefined"

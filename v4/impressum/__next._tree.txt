@@ -1,0 +1,7 @@
+:HL["/mypension-vorschau/v4/_next/static/chunks/0mxirm02eghw1.css","style"]
+:HL["/mypension-vorschau/v4/_next/static/media/schibsted_grotesk_latin-s.p.3j3x29wbycqkn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mypension-vorschau/v4/bilder/johanna-pitsch.png","image"]
+:HL["/mypension-vorschau/v4/bilder/wald-allee-800.jpg","image",{"imageSrcSet":"/mypension-vorschau/v4/bilder/wald-allee-800.jpg 800w, /mypension-vorschau/v4/bilder/wald-allee-1600.jpg 1600w","imageSizes":"(min-width: 64rem) 60vw, 150vw","fetchPriority":"high"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"impressum","h":64,"c":"$Q2"}]]
+0:{"b":"03qWQib0WETX4VZEJjnQa","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
