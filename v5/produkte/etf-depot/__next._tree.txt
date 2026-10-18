@@ -7,4 +7,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"etf-depot","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"produkte","h":131136,"c":"$Q2"}]]
-0:{"b":"Z9tF6tXg742mZK5mqMbfo","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"nsIkwF__DRQleS9pdBD9Y","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

@@ -1,7 +1,7 @@
-:HL["/mypension-vorschau/v1/_next/static/chunks/330ed05bp71g6.css","style"]
+:HL["/mypension-vorschau/v1/_next/static/chunks/2l41b0eepq3bc.css","style"]
 :HL["/mypension-vorschau/v1/_next/static/media/schibsted_grotesk_latin-s.p.3j3x29wbycqkn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mypension-vorschau/v1/bilder/strand-abend-800.jpg","image",{"imageSrcSet":"/mypension-vorschau/v1/bilder/strand-abend-800.jpg 800w, /mypension-vorschau/v1/bilder/strand-abend-1600.jpg 1600w","imageSizes":"(min-width: 1024px) 75vw, 100vw","fetchPriority":"high"}]
 :HL["/mypension-vorschau/v1/bilder/johanna-pitsch.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"termin","h":64,"c":"$Q2"}]]
-0:{"b":"Isv9xjxv-Q2wWTCm467e9","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"4JRHUOs4ZLPChqwqPbpau","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

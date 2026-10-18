@@ -4,4 +4,4 @@
 :HL["/mypension-vorschau/v2/bilder/ll-kueche-800.jpg","image",{"imageSrcSet":"/mypension-vorschau/v2/bilder/ll-kueche-800.jpg 800w, /mypension-vorschau/v2/bilder/ll-kueche-1600.jpg 1600w","imageSizes":"(min-width: 768px) 70vw, 100vw","fetchPriority":"high"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"ueber-uns","h":64,"c":"$Q2"}]]
-0:{"b":"agZU6DAlgSxaSoRM1WYin","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"5CY6P9JzTw1MDJqFuNIK-","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
