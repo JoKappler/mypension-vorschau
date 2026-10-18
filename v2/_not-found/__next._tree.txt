@@ -1,5 +1,5 @@
-:HL["/mypension-vorschau/v2/_next/static/chunks/2op3hf3r_u9j6.css","style"]
+:HL["/mypension-vorschau/v2/_next/static/chunks/2fkjs6-geyey0.css","style"]
 :HL["/mypension-vorschau/v2/bilder/johanna-pitsch.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"5CY6P9JzTw1MDJqFuNIK-","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"HJL00frlW5JatVh49NDrX","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
